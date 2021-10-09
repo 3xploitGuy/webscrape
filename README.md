@@ -5,7 +5,7 @@ It is a web scraper written in bash with all possible error handling which scrap
 Web Scraping also termed Web Data Extraction or Web Harvesting it is a technique employed to extract large amounts of data from websites whereby the data is extracted and saved to a local file in your computer for many uses.
 
 ## Screenshot
-<img src="https://github.com/pooja5581/tokenizer/blob/master/3/webscrape.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668777-24ca6baf-e413-459e-87a4-8cd1d8630ff8.png" width="100%"></img>
 
 ## Installing and requirements
 - Linux or Unix-based system
